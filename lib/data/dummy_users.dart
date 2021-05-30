@@ -9,7 +9,7 @@ const DUMMY_USERS = {
         'https://media.istockphoto.com/photos/happy-smiling-student-girl-studying-in-classroom-picture-id1278976532?s=612x612',
   ),
   '2': const User(
-    id: '3',
+    id: '2',
     name: 'Rafael',
     email: 'rafael@alunos.com.br',
     avatarUrl:
